@@ -130,7 +130,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/george827/hello-rails-react/issues).
+Feel free to check the [issues page](https://github.com/asifaminisonline/Rails-React/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,6 +154,6 @@ I would like to thank microverse for providing all the reading resources to buld
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/george827/hello-rails-react/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/asifaminisonline/Rails-React/blob/Hello-React-Rails/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
